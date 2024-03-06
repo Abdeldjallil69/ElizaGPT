@@ -1,4 +1,4 @@
-# Application de Gestion de Projets avec Chatbot IA
+# Application de Gestion de Projets
 
 Ce projet, réalisé dans le cadre de l'UE MIF01 du Master 1 Informatique, présente une application de gestion de projets dotée d'un chatbot similaire à la célèbre intelligence artificielle ELIZA. L'application offre diverses fonctionnalités interactives pour améliorer l'expérience utilisateur.
 
